@@ -1,5 +1,5 @@
 ---
-# hello-world
+title: "hello-world"
 author: "Katarina Jureško"
 date: "30.10.2025"
 ---
