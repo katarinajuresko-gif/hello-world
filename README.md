@@ -10,5 +10,5 @@ Moj prvi hithub repozitorij
 ##Uvod u Markdown
 Pogledaj [Licenca](Licence)
 
-### Osnoce Git-a i Github-a
-[Ovdje](https>//merlin.srce.hr)
+### Osnove Git-a i Github-a
+[Ovdje](https://merlin.srce.hr)
